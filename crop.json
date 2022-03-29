@@ -1,7 +1,7 @@
 {
-    "Name": "Loveshrub",
-    "Product": "Loveberry",
-    "SeedName": "Love Seeds",
+    "Name": "Friendshrub",
+    "Product": "Friendberry",
+    "SeedName": "Friend Seeds",
     "SeedDescription": "Plant these in any season. Takes a whole season to mature to a shrub, and continues to produce afterwards.",
     "Type": "Fruit",
 
@@ -22,7 +22,7 @@
   "SeedNameLocalization": {
     // "es": "",
     // "ko": "",
-    "de": "Herzsaat",
+    "de": "Freundessaat",
     // "fr": "",
     // "hu": "",
     // "it": "",

@@ -1,21 +1,21 @@
 {
-    "Name": "Loveberry",
-    "Description": "The berry is meant for someone special.",
+    "Name": "Friendberry",
+    "Description": "This berry is meant for a friend.",
     "Category": "Fruit",
     "Edibility": 20,
     "Price": 10,
     "IsColored": false,
     "GiftTastes":
     {
-        "Love": ["Abigail", "Alex", "Elliott", "Emily", "Haley", "Harvey", "Leah", "Maru", "Penny", "Sebastian", "Shane", "Sam", 
-		"Sophia", "Wizard", "Claire", "Olivia", "Victor", "Lance", "Ian", "Jeric", "Jio", "Kenneth", "Philip", "Kenneth", "Alissa", "Corine", "Daia", "Flor", "Maddie", "Ysabelle"],
+        "Love": ["Caroline", "Clint", "Demetrius", "Dwarf", "Evelyn", "George", "Krobus", "Gus", "Jas", "Jodi", "Kent", "Leo", "Lewis", 
+		"Linus", "Marnie", "Pam", "Pierre", "Robin", "Sandy", "Vincent", "Willy", "Wizard", "Marlon", "Apples", "Andy", "Gunther", "Martin", "Morgan", "Morris", "Susan", "Mr. Aguar", "Anton", "Ariah",  "Bert", "Blair", "Ezekiel", "Faye", "Freddie", "Irene", "Keahi", "Kiarra", "Kiwi", "Lenny", "Lola", "Olga", "Paula", "Pika", "Richard", "Sean", "Trinnie", "Undreya", "Yuuma"],
         
     },
     "Recipe": null,
   "NameLocalization": {
     // "es": "",
     // "ko": "",
-    "de": "Liebesbeere",
+    "de": "Freundesbeere",
     // "fr": "",
     // "hu": "",
     // "it": "",
@@ -28,7 +28,7 @@
   "DescriptionLocalization": {
      // "es": "",
     // "ko": "",
-    "de": "Diese Beere ist für jemand ganz Besonderen",
+    "de": "Diese Beere ist für einen Freund.",
     // "fr": "",
     // "hu": "",
     // "it": "",
