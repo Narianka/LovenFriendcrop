@@ -1,0 +1,50 @@
+{
+    "Name": "Loveberry",
+    "Description": "The berry is meant for someone special.",
+    "Category": "Fruit",
+    "Edibility": 20,
+    "Price": 10,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Abigail", "Alex", "Elliott", "Emily", "Haley", "Harvey", "Leah", "Maru", "Penny", "Sebastian", "Shane", "Sam", 
+		"Sophia", "Wizard", "Claire", "Olivia", "Victor", "Lance", "Ian", "Jeric", "Jio", "Kenneth", "Philip", "Kenneth", "Alissa", "Corine", "Daia", "Flor", "Maddie", "Ysabelle"],
+        
+    },
+    "Recipe": null,
+  "NameLocalization": {
+    // "es": "",
+    // "ko": "",
+    "de": "Liebesbeere",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    // "tr": "",
+    // "zh": ""
+  },
+  "DescriptionLocalization": {
+     // "es": "",
+    // "ko": "",
+    "de": "Diese Beere ist für jemand ganz Besonderen",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    // "tr": "",
+    // "zh": ""
+  },
+    "ContextTags": [
+        "season_spring",
+		"season_summer",
+		"season_fall",
+		"season_winter",
+        "color_red",
+        "fruit_item",
+        "crop_year_1",
+    ],
+}

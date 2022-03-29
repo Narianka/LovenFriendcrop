@@ -1,0 +1,13 @@
+{
+    "Name": "Love'n'Friend Crops",
+    "Author": "Narianka",
+    "Description": "Brings a little love to the valley",
+    "Version": "1.0.0",
+    "MinimumApiVersion": "3.7.0",
+    "UniqueID": "narianka.lovefriendcrop",
+    "UpdateKeys": [""],
+    "ContentPackFor":
+    {
+        "UniqueID": "spacechase0.JsonAssets"
+    }
+}

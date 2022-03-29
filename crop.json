@@ -1,0 +1,48 @@
+{
+    "Name": "Loveshrub",
+    "Product": "Loveberry",
+    "SeedName": "Love Seeds",
+    "SeedDescription": "Plant these in any season. Takes a whole season to mature to a shrub, and continues to produce afterwards.",
+    "Type": "Fruit",
+
+    "Seasons": ["spring", "summer", "fall", "winter"],
+    "Phases": [5, 7, 6, 9, 1],
+    "RegrowthPhase": 6,
+    "HarvestWithScythe": false,
+    "TrellisCrop": true,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 2,
+        "MaxIncreasePerFarmLevel": 15,
+        "ExtraChance": 0.1,
+    },
+    "SeedPurchasePrice": 1000,
+  "SeedNameLocalization": {
+    // "es": "",
+    // "ko": "",
+    "de": "Herzsaat",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    // "tr": "",
+    // "zh": ""
+  },
+  "SeedDescriptionLocalization": {
+    // "es": "",
+    // "ko": "",
+    "de": "Pflanze sie das ganze Jahr über. Braucht eine ganze Saison um zu einem Busch zu wachsen und kann mehrmals geernet werden.",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    // "tr": "",
+    // "zh": ""
+  }
+}
